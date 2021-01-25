@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/mogwais-practice-reactjs/static/js/main.5d4972be.chunk.js",
+    "main.js.map": "/mogwais-practice-reactjs/static/js/main.5d4972be.chunk.js.map",
+    "runtime-main.js": "/mogwais-practice-reactjs/static/js/runtime-main.fe8feb76.js",
+    "runtime-main.js.map": "/mogwais-practice-reactjs/static/js/runtime-main.fe8feb76.js.map",
+    "static/js/2.a3778911.chunk.js": "/mogwais-practice-reactjs/static/js/2.a3778911.chunk.js",
+    "static/js/2.a3778911.chunk.js.map": "/mogwais-practice-reactjs/static/js/2.a3778911.chunk.js.map",
+    "index.html": "/mogwais-practice-reactjs/index.html",
+    "precache-manifest.79d5e0fe1e9e6b6ea65c6d211276b938.js": "/mogwais-practice-reactjs/precache-manifest.79d5e0fe1e9e6b6ea65c6d211276b938.js",
+    "service-worker.js": "/mogwais-practice-reactjs/service-worker.js",
+    "static/js/2.a3778911.chunk.js.LICENSE.txt": "/mogwais-practice-reactjs/static/js/2.a3778911.chunk.js.LICENSE.txt",
+    "static/media/gremlin-01.png": "/mogwais-practice-reactjs/static/media/gremlin-01.67fdd64c.png",
+    "static/media/gremlin-02.png": "/mogwais-practice-reactjs/static/media/gremlin-02.85fa2f79.png",
+    "static/media/gremlin-03.png": "/mogwais-practice-reactjs/static/media/gremlin-03.f917f2d2.png",
+    "static/media/gremlin-04.png": "/mogwais-practice-reactjs/static/media/gremlin-04.9532329d.png",
+    "static/media/v-mogwai-color-03.svg": "/mogwais-practice-reactjs/static/media/v-mogwai-color-03.7399cc6a.svg",
+    "static/media/v-mogwai-color-04.svg": "/mogwais-practice-reactjs/static/media/v-mogwai-color-04.26f71fb0.svg",
+    "static/media/v-mogwai-color-05.svg": "/mogwais-practice-reactjs/static/media/v-mogwai-color-05.3f1b7e9b.svg",
+    "static/media/v-mogwai-color-06.svg": "/mogwais-practice-reactjs/static/media/v-mogwai-color-06.3a9bc0b6.svg",
+    "static/media/v-mogwai-color-07.svg": "/mogwais-practice-reactjs/static/media/v-mogwai-color-07.7982257b.svg",
+    "static/media/v-mogwai-outline-01.svg": "/mogwais-practice-reactjs/static/media/v-mogwai-outline-01.0a02c3d5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe8feb76.js",
+    "static/js/2.a3778911.chunk.js",
+    "static/js/main.5d4972be.chunk.js"
+  ]
+}
