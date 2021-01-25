@@ -183,18 +183,16 @@ const Mogwai = ({ direction, colorImg, faceId, select }) => {
   }
   // end rotating state
 
+  const [mogwaisArray, setMogwaisArray] = useState([...mogwaiList])
+
   // begin sunlight exposure (delete)
-  function sunlightDelete() {
-    // const currentMogwai = this.props.key;
-    // console.log(currentMogwai);
-    // return mogwaiList.slice(currentMogwai);
-    return (
-      (deleteMogwaiStyle = { display: "none" }),
-      setTimeout(function () {
-        deleteMogwaiStyle = { display: "block" };
-      }, 500)
-    );
+ function sunlightDelete() {
+
+   mogwaisArray.splice(mogwaisArray.findIndex(this), 1)
+
+    return setMogwaisArray([...mogwaisArray])
   }
+
   // TO DO: Get this to function properly by pulling out the array item too!
 
   // end sunlight exposure (delete)
