@@ -5,11 +5,13 @@ I made this project just to practice learning React JS. It allows you to create,
 
 ### View my current progess [HERE](https://melanierosson.github.io/mogwais-practice-reactjs/)
 
-## Developer TODO's as of 1/24/2021:
-* Create main array as wrapper component data to the entire app so it is accessible everywhere
-* Componentize main Mogwai.js file data into other JS files
-* Styles - Ensure the enabled/disabled buttons are distinct from one another
-* Only allow user to select one mogwai at a time
-* Enable water feature to add additional mogwai
-* Enable sunlight feature to delete mogwai
-* Remove bottom dev print tests
+## Developer TODO's as of 1/28/2021:
+1. Create main array data of mogwai available throughout all app components either Redux or Context API + hooks
+1. Componentize main Mogwai.js file data into other JS files 
+1. Have data from components correctly feed into and manipulate (or copy and manipulate) main mogwai mapped array data
+1. Styles: Ensure the enabled/disabled buttons are distinct from one another on the selected mogwai top button panel
+1. Only allow one mogwai selection at a time by: OnClick --> checking for `select=true` on all mogwai and changing them to `select=false` before toggling the currently clicked mogwai to `select=true`
+1. Enable water feature to add additional mogwai to main array map
+1. Enable sunlight feature to delete mogwai or hide mogwai from main array map
+1. Remove bottom dev print test strings from user view
+1. (Optional) Make responsive?
