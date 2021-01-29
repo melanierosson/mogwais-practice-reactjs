@@ -6,7 +6,7 @@ I made this project just to practice learning React JS. It allows you to create,
 ### View my current progess [HERE](https://melanierosson.github.io/mogwais-practice-reactjs/)
 
 ## Developer TODO's as of 1/28/2021:
-1. Create main array data of mogwai available throughout all app components either Redux or Context API + hooks
+1. Create main array data of mogwai available throughout all app components with either Redux or Context API + hooks
 1. Componentize main Mogwai.js file data into other JS files 
 1. Have data from components correctly feed into and manipulate (or copy and manipulate) main mogwai mapped array data
 1. Styles: Ensure the enabled/disabled buttons are distinct from one another on the selected mogwai top button panel
